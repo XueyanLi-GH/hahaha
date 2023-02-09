@@ -1,3 +1,16 @@
+
+git clone 代码后 执行npm i 再执行npm run dev  即可开启本地服务
+
+
+
+
+
+
+
+
+
+*******************************以下为源文件自带**********************
+
 ![](static-files/newbee-mall.png)
 
 ![Build Status](https://img.shields.io/badge/build-passing-green.svg)
